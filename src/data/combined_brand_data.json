@@ -1,0 +1,2732 @@
+[
+  {
+    "brand": "3LAU",
+    "data": {
+      "profile": {
+        "blockchain": "ethereum",
+        "brand": "3LAU",
+        "category": "music",
+        "chain_id": 1,
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      },
+      "contract_profile": {
+        "blockchain": "ethereum",
+        "brand": "3LAU",
+        "category": "music",
+        "chain_id": 1,
+        "contract_address": "0x26b365dd6c6c2c5c1b19658ede5ef00c12402702",
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      }
+    }
+  },
+  {
+    "brand": "Adidas",
+    "data": {
+      "metadata": {
+        "blockchain": "ethereum",
+        "brand": "Adidas",
+        "category": "Sports",
+        "chain_id": 1,
+        "contract_address": "0x8141df220aeb0229c1067bc4f3ce0c28431a9ffb",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0x8141df220aeb0229c1067bc4f3ce0c28431a9ffb'"
+        ],
+        "description": "N/AFloor PriceN/AAverage Sale PriceN/ATotal Sales Volume",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      },
+      "profile": {
+        "blockchain": "ethereum",
+        "brand": "Adidas",
+        "category": "sports",
+        "chain_id": 1,
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      },
+      "contract_metadata": {
+        "blockchain": "ethereum",
+        "brand": "Adidas",
+        "category": "Sports",
+        "chain_id": 1,
+        "contract_address": "0x8141df220aeb0229c1067bc4f3ce0c28431a9ffb",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0x8141df220aeb0229c1067bc4f3ce0c28431a9ffb'"
+        ],
+        "description": "N/AFloor PriceN/AAverage Sale PriceN/ATotal Sales Volume",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      },
+      "contract_profile": {
+        "blockchain": "ethereum",
+        "brand": "Adidas",
+        "category": "sports",
+        "chain_id": 1,
+        "contract_address": "0x8141df220aeb0229c1067bc4f3ce0c28431a9ffb",
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      },
+      "category": {
+        "blockchain": "ethereum",
+        "brand": "Adidas",
+        "category": "Sports",
+        "chain_id": 1,
+        "contract_address": "0x8141df220aeb0229c1067bc4f3ce0c28431a9ffb",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0x8141df220aeb0229c1067bc4f3ce0c28431a9ffb'"
+        ],
+        "description": "N/AFloor PriceN/AAverage Sale PriceN/ATotal Sales Volume",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      }
+    }
+  },
+  {
+    "brand": "AirBaltic",
+    "data": {
+      "metadata": {
+        "blockchain": "ethereum",
+        "brand": "AirBaltic",
+        "category": "Travel",
+        "chain_id": 1,
+        "contract_address": "0x495f947276749ce646f68ac8c248420045cb7b5e",
+        "contract_type": "ERC1155",
+        "contracts": [
+          "'0x495f947276749ce646f68ac8c248420045cb7b5e'"
+        ],
+        "description": "OpenSea Shared Storefront (OPENSTORE) is a series of special NFT collections created by users of Opensea.\n",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "['#CC6AB5', '#0064C2', '#D0EBFF', '#E03131']",
+        "thumbnail_url": "https://lh3.googleusercontent.com/HMeSm6mM47Wkap8it2rXBbyCIF0wiAXpamQJQidiCmF4wL-zL5sS2UXZuH6jm65kpXy2XwaS1T9gkD7x2UbB34qlwTLMTBHmyqx5qA=s500",
+        "twitter_url": ""
+      },
+      "profile": {
+        "blockchain": "ethereum",
+        "brand": "AirBaltic",
+        "category": "Travel",
+        "chain_id": 1,
+        "diamond_hands": "0",
+        "loss_making_trades": "5",
+        "loss_making_volume": -281.02373965179385,
+        "profitable_trades": "1",
+        "profitable_volume": 491.4867648133237,
+        "token_score": 0
+      },
+      "contract_metadata": {
+        "blockchain": "ethereum",
+        "brand": "AirBaltic",
+        "category": "Travel",
+        "chain_id": 1,
+        "contract_address": "0x495f947276749ce646f68ac8c248420045cb7b5e",
+        "contract_type": "ERC1155",
+        "contracts": [
+          "'0x495f947276749ce646f68ac8c248420045cb7b5e'"
+        ],
+        "description": "OpenSea Shared Storefront (OPENSTORE) is a series of special NFT collections created by users of Opensea.\n",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "['#CC6AB5', '#0064C2', '#D0EBFF', '#E03131']",
+        "thumbnail_url": "https://lh3.googleusercontent.com/HMeSm6mM47Wkap8it2rXBbyCIF0wiAXpamQJQidiCmF4wL-zL5sS2UXZuH6jm65kpXy2XwaS1T9gkD7x2UbB34qlwTLMTBHmyqx5qA=s500",
+        "twitter_url": ""
+      },
+      "contract_profile": {
+        "blockchain": "ethereum",
+        "brand": "AirBaltic",
+        "category": "Travel",
+        "chain_id": 1,
+        "contract_address": "0x495f947276749ce646f68ac8c248420045cb7b5e",
+        "diamond_hands": "0",
+        "loss_making_trades": "5",
+        "loss_making_volume": -281.02373965179385,
+        "profitable_trades": "1",
+        "profitable_volume": 491.4867648133237,
+        "token_score": 0
+      },
+      "category": {
+        "blockchain": "ethereum",
+        "brand": "AirBaltic",
+        "category": "Travel",
+        "chain_id": 1,
+        "contract_address": "0x495f947276749ce646f68ac8c248420045cb7b5e",
+        "contract_type": "ERC1155",
+        "contracts": [
+          "'0x495f947276749ce646f68ac8c248420045cb7b5e'"
+        ],
+        "description": "OpenSea Shared Storefront (OPENSTORE) is a series of special NFT collections created by users of Opensea.\n",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "['#CC6AB5', '#0064C2', '#D0EBFF', '#E03131']",
+        "thumbnail_url": "https://lh3.googleusercontent.com/HMeSm6mM47Wkap8it2rXBbyCIF0wiAXpamQJQidiCmF4wL-zL5sS2UXZuH6jm65kpXy2XwaS1T9gkD7x2UbB34qlwTLMTBHmyqx5qA=s500",
+        "twitter_url": ""
+      }
+    }
+  },
+  {
+    "brand": "Aku dreams",
+    "data": {
+      "profile": {
+        "blockchain": "ethereum",
+        "brand": "Aku dreams",
+        "category": "media & entertainment",
+        "chain_id": 1,
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      },
+      "contract_profile": {
+        "blockchain": "ethereum",
+        "brand": "Aku dreams",
+        "category": "media & entertainment",
+        "chain_id": 1,
+        "contract_address": "0x6c9369dc930fd794ad0af7511f483d936a2ef7f3",
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      }
+    }
+  },
+  {
+    "brand": "Armin van Buuren",
+    "data": {
+      "profile": {
+        "blockchain": "ethereum",
+        "brand": "Armin van Buuren",
+        "category": "music",
+        "chain_id": 1,
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      },
+      "contract_profile": {
+        "blockchain": "ethereum",
+        "brand": "Armin van Buuren",
+        "category": "music",
+        "chain_id": 1,
+        "contract_address": "0xb3bd41348749b20714c53d6b377219ac6b0515e2",
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      }
+    }
+  },
+  {
+    "brand": "Audioglyphs",
+    "data": {
+      "profile": {
+        "blockchain": "ethereum",
+        "brand": "Audioglyphs",
+        "category": "music",
+        "chain_id": 1,
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      },
+      "contract_profile": {
+        "blockchain": "ethereum",
+        "brand": "Audioglyphs",
+        "category": "music",
+        "chain_id": 1,
+        "contract_address": "0xfb3765e0e7ac73e736566af913fa58c3cfd686b7",
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      }
+    }
+  },
+  {
+    "brand": "belvedre museum",
+    "data": {
+      "metrics": {
+        "No_of_contracts": "1",
+        "assets_all": "1",
+        "blockchain": "ethereum",
+        "brand": "belvedre museum",
+        "chain_id": 1,
+        "collection": "The Kiss NFT - Gustav Klimt by Belvedere Museum",
+        "contracts": "0x54442d0a5849ac1cfedd78f892154328f2c5b238",
+        "growth_rate": 8.333333333333332,
+        "holders": "1",
+        "interactions": "1",
+        "marketplace_volume": [
+          "'opensea':146.0091"
+        ],
+        "mcap": 0,
+        "mint_revenue": 0,
+        "mint_tokens": "0",
+        "primary_sale_revenue": 146.00908888035573,
+        "retained_traders": "0",
+        "royalty_revenue": 0,
+        "secondary_sale_revenue": 0,
+        "total_revenue": 146.00908888035573,
+        "total_volume": 146.00908888035573,
+        "traders": "2"
+      },
+      "contract_metrics": {
+        "No_of_contracts": "1",
+        "assets_all": "1",
+        "blockchain": "ethereum",
+        "brand": "belvedre museum",
+        "chain_id": 1,
+        "collection": "The Kiss NFT - Gustav Klimt by Belvedere Museum",
+        "contract_address": "0x54442d0a5849ac1cfedd78f892154328f2c5b238",
+        "contracts": "0x54442d0a5849ac1cfedd78f892154328f2c5b238",
+        "growth_rate": 8.333333333333332,
+        "holders": "1",
+        "interactions": "1",
+        "marketplace_volume": [
+          "'opensea':146.0091"
+        ],
+        "mcap": 0,
+        "mint_revenue": 0,
+        "mint_tokens": "0",
+        "primary_sale_revenue": 146.00908888035573,
+        "retained_traders": "0",
+        "royalty_revenue": 0,
+        "secondary_sale_revenue": 0,
+        "total_revenue": 146.00908888035573,
+        "total_volume": 146.00908888035573,
+        "traders": "2"
+      }
+    }
+  },
+  {
+    "brand": "Budweiser",
+    "data": {
+      "metadata": {
+        "blockchain": "ethereum",
+        "brand": "Budweiser",
+        "category": "Food & Beverage",
+        "chain_id": 1,
+        "contract_address": "0x42ab4eb0bbd9e4cdf71bccdfab16830705e7dd37",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0x42ab4eb0bbd9e4cdf71bccdfab16830705e7dd37'"
+        ],
+        "description": "Introducing Millie Go Lightly, one of the 22 Budweiser Royalty artists. This Hip Hop/Pop musician is from Stratford Upon Avon, England and has 500 NFTs available, allowing early fans to proudly represent them.",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      },
+      "profile": {
+        "blockchain": "ethereum",
+        "brand": "Budweiser",
+        "category": "food & beverage",
+        "chain_id": 1,
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      },
+      "contract_metadata": {
+        "blockchain": "ethereum",
+        "brand": "Budweiser",
+        "category": "Food & Beverage",
+        "chain_id": 1,
+        "contract_address": "0x42ab4eb0bbd9e4cdf71bccdfab16830705e7dd37",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0x42ab4eb0bbd9e4cdf71bccdfab16830705e7dd37'"
+        ],
+        "description": "Introducing Millie Go Lightly, one of the 22 Budweiser Royalty artists. This Hip Hop/Pop musician is from Stratford Upon Avon, England and has 500 NFTs available, allowing early fans to proudly represent them.",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      },
+      "contract_profile": {
+        "blockchain": "ethereum",
+        "brand": "Budweiser",
+        "category": "food & beverage",
+        "chain_id": 1,
+        "contract_address": "0x42ab4eb0bbd9e4cdf71bccdfab16830705e7dd37",
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      },
+      "category": {
+        "blockchain": "ethereum",
+        "brand": "Budweiser",
+        "category": "Food & Beverage",
+        "chain_id": 1,
+        "contract_address": "0x42ab4eb0bbd9e4cdf71bccdfab16830705e7dd37",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0x42ab4eb0bbd9e4cdf71bccdfab16830705e7dd37'"
+        ],
+        "description": "Introducing Millie Go Lightly, one of the 22 Budweiser Royalty artists. This Hip Hop/Pop musician is from Stratford Upon Avon, England and has 500 NFTs available, allowing early fans to proudly represent them.",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      }
+    }
+  },
+  {
+    "brand": "Coach",
+    "data": {
+      "metadata": {
+        "blockchain": "ethereum",
+        "brand": "Coach",
+        "category": "Fashion",
+        "chain_id": 1,
+        "contract_address": "0x12d28b6f0cc4537da1451e8400e332fe2931f23d",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0x12d28b6f0cc4537da1451e8400e332fe2931f23d'"
+        ],
+        "description": "Inspired by iconic designs from COACH\"s Fall 2021 collection themed \"COACH Forever II\", the first fashion NFT artwork selection COACH chose to jointly release with layer2 NFT protocol ZKBox, was given a feature of the brand\"s classic bag icon - Rogue, appearing in landmarks around the world. Go Rogue!",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      },
+      "profile": {
+        "blockchain": "ethereum",
+        "brand": "Coach",
+        "category": "fashion",
+        "chain_id": 1,
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      },
+      "contract_metadata": {
+        "blockchain": "ethereum",
+        "brand": "Coach",
+        "category": "Fashion",
+        "chain_id": 1,
+        "contract_address": "0x12d28b6f0cc4537da1451e8400e332fe2931f23d",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0x12d28b6f0cc4537da1451e8400e332fe2931f23d'"
+        ],
+        "description": "Inspired by iconic designs from COACH\"s Fall 2021 collection themed \"COACH Forever II\", the first fashion NFT artwork selection COACH chose to jointly release with layer2 NFT protocol ZKBox, was given a feature of the brand\"s classic bag icon - Rogue, appearing in landmarks around the world. Go Rogue!",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      },
+      "contract_profile": {
+        "blockchain": "ethereum",
+        "brand": "Coach",
+        "category": "fashion",
+        "chain_id": 1,
+        "contract_address": "0x12d28b6f0cc4537da1451e8400e332fe2931f23d",
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      },
+      "category": {
+        "blockchain": "ethereum",
+        "brand": "Coach",
+        "category": "Fashion",
+        "chain_id": 1,
+        "contract_address": "0x12d28b6f0cc4537da1451e8400e332fe2931f23d",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0x12d28b6f0cc4537da1451e8400e332fe2931f23d'"
+        ],
+        "description": "Inspired by iconic designs from COACH\"s Fall 2021 collection themed \"COACH Forever II\", the first fashion NFT artwork selection COACH chose to jointly release with layer2 NFT protocol ZKBox, was given a feature of the brand\"s classic bag icon - Rogue, appearing in landmarks around the world. Go Rogue!",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      }
+    }
+  },
+  {
+    "brand": "Deafbeef",
+    "data": {
+      "profile": {
+        "blockchain": "ethereum",
+        "brand": "Deafbeef",
+        "category": "music",
+        "chain_id": 1,
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      },
+      "contract_profile": {
+        "blockchain": "ethereum",
+        "brand": "Deafbeef",
+        "category": "music",
+        "chain_id": 1,
+        "contract_address": "0xd754937672300ae6708a51229112de4017810934",
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      }
+    }
+  },
+  {
+    "brand": "Diplo",
+    "data": {
+      "profile": {
+        "blockchain": "ethereum",
+        "brand": "Diplo",
+        "category": "music",
+        "chain_id": 1,
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      },
+      "contract_profile": {
+        "blockchain": "ethereum",
+        "brand": "Diplo",
+        "category": "music",
+        "chain_id": 1,
+        "contract_address": "0x1d13888404efe5d6893cb31cfcfba80dfe142879",
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      }
+    }
+  },
+  {
+    "brand": "Dolce and Gabbana",
+    "data": {
+      "metadata": {
+        "blockchain": "ethereum",
+        "brand": "Dolce and Gabbana",
+        "category": "Fashion",
+        "chain_id": 1,
+        "contract_address": "0xd71b53fe1df51075c5a965956cdc87421c2ffed7",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0xd71b53fe1df51075c5a965956cdc87421c2ffed7'"
+        ],
+        "description": "Created as an exclusive partnership between Dolce&Gabbana and UNXD, Collezione Genesi was first revealed in Summer 2021 at the Dolce&Gabbana Alta Moda couture event in the world’s most unique city: Venice.",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      },
+      "metrics": {
+        "No_of_contracts": "1",
+        "assets_all": "1",
+        "blockchain": "ethereum",
+        "brand": "Dolce and Gabbana",
+        "chain_id": 1,
+        "collection": "Dolce&Gabbana: DGFamily",
+        "contracts": "0xeb6c5accafd8515c1b9e4c794bdc41532c5543ec",
+        "growth_rate": 3.8461538461538463,
+        "holders": "1",
+        "interactions": "1",
+        "marketplace_volume": [
+          "'opensea':26.370289"
+        ],
+        "mcap": 0,
+        "mint_revenue": 0,
+        "mint_tokens": "0",
+        "primary_sale_revenue": 26.370288994684138,
+        "retained_traders": "0",
+        "royalty_revenue": 0,
+        "secondary_sale_revenue": 0,
+        "total_revenue": 26.370288994684138,
+        "total_volume": 26.370288994684138,
+        "traders": "2"
+      },
+      "profile": {
+        "blockchain": "ethereum",
+        "brand": "Dolce and Gabbana",
+        "category": "fashion",
+        "chain_id": 1,
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      },
+      "contract_metadata": {
+        "blockchain": "ethereum",
+        "brand": "Dolce and Gabbana",
+        "category": "Fashion",
+        "chain_id": 1,
+        "contract_address": "0xd71b53fe1df51075c5a965956cdc87421c2ffed7",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0xd71b53fe1df51075c5a965956cdc87421c2ffed7'"
+        ],
+        "description": "Created as an exclusive partnership between Dolce&Gabbana and UNXD, Collezione Genesi was first revealed in Summer 2021 at the Dolce&Gabbana Alta Moda couture event in the world’s most unique city: Venice.",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      },
+      "contract_metrics": {
+        "No_of_contracts": "1",
+        "assets_all": "1",
+        "blockchain": "ethereum",
+        "brand": "Dolce and Gabbana",
+        "chain_id": 1,
+        "collection": "Dolce&Gabbana: DGFamily",
+        "contract_address": "0xeb6c5accafd8515c1b9e4c794bdc41532c5543ec",
+        "contracts": "0xeb6c5accafd8515c1b9e4c794bdc41532c5543ec",
+        "growth_rate": 16.666666666666664,
+        "holders": "1",
+        "interactions": "1",
+        "marketplace_volume": [
+          "'opensea':26.370289"
+        ],
+        "mcap": 0,
+        "mint_revenue": 0,
+        "mint_tokens": "0",
+        "primary_sale_revenue": 26.370288994684138,
+        "retained_traders": "0",
+        "royalty_revenue": 0,
+        "secondary_sale_revenue": 0,
+        "total_revenue": 26.370288994684138,
+        "total_volume": 26.370288994684138,
+        "traders": "2"
+      },
+      "contract_profile": {
+        "blockchain": "ethereum",
+        "brand": "Dolce and Gabbana",
+        "category": "fashion",
+        "chain_id": 1,
+        "contract_address": "0xd71b53fe1df51075c5a965956cdc87421c2ffed7",
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      },
+      "category": {
+        "blockchain": "ethereum",
+        "brand": "Dolce and Gabbana",
+        "category": "Fashion",
+        "chain_id": 1,
+        "contract_address": "0xd71b53fe1df51075c5a965956cdc87421c2ffed7",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0xd71b53fe1df51075c5a965956cdc87421c2ffed7'"
+        ],
+        "description": "Created as an exclusive partnership between Dolce&Gabbana and UNXD, Collezione Genesi was first revealed in Summer 2021 at the Dolce&Gabbana Alta Moda couture event in the world’s most unique city: Venice.",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      }
+    }
+  },
+  {
+    "brand": "ESPN",
+    "data": {
+      "profile": {
+        "blockchain": "ethereum",
+        "brand": "ESPN",
+        "category": "media & entertainment",
+        "chain_id": 1,
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      },
+      "contract_profile": {
+        "blockchain": "ethereum",
+        "brand": "ESPN",
+        "category": "media & entertainment",
+        "chain_id": 1,
+        "contract_address": "0x6cfdb8f0cb7f0799ced4950d8b3ce7d5eb99f834",
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      }
+    }
+  },
+  {
+    "brand": "fox entertainment",
+    "data": {
+      "metrics": {
+        "No_of_contracts": "1",
+        "assets_all": "1",
+        "blockchain": "ethereum",
+        "brand": "fox entertainment",
+        "chain_id": 1,
+        "collection": "Krapopolis Krap Chickens",
+        "contracts": "0x5a57ed460bd0368bfcf48dd3dd246a56b4bbb891",
+        "growth_rate": 6.666666666666667,
+        "holders": "1",
+        "interactions": "1",
+        "marketplace_volume": [
+          "'opensea':14.240179"
+        ],
+        "mcap": 0,
+        "mint_revenue": 0,
+        "mint_tokens": "0",
+        "primary_sale_revenue": 0,
+        "retained_traders": "1",
+        "royalty_revenue": 0,
+        "secondary_sale_revenue": 14.240179495167538,
+        "total_revenue": 0,
+        "total_volume": 14.240179495167538,
+        "traders": "2"
+      },
+      "contract_metrics": {
+        "No_of_contracts": "1",
+        "assets_all": "1",
+        "blockchain": "ethereum",
+        "brand": "fox entertainment",
+        "chain_id": 1,
+        "collection": "Krapopolis Krap Chickens",
+        "contract_address": "0x5a57ed460bd0368bfcf48dd3dd246a56b4bbb891",
+        "contracts": "0x5a57ed460bd0368bfcf48dd3dd246a56b4bbb891",
+        "growth_rate": 6.666666666666667,
+        "holders": "1",
+        "interactions": "1",
+        "marketplace_volume": [
+          "'opensea':14.240179"
+        ],
+        "mcap": 0,
+        "mint_revenue": 0,
+        "mint_tokens": "0",
+        "primary_sale_revenue": 0,
+        "retained_traders": "1",
+        "royalty_revenue": 0,
+        "secondary_sale_revenue": 14.240179495167538,
+        "total_revenue": 0,
+        "total_volume": 14.240179495167538,
+        "traders": "2"
+      }
+    }
+  },
+  {
+    "brand": "Francis De Lara",
+    "data": {
+      "metadata": {
+        "blockchain": "ethereum",
+        "brand": "Francis De Lara",
+        "category": "Fashion",
+        "chain_id": 1,
+        "contract_address": "0x2b36e8d3a3676c40208bc6e491d3a70d1ac950eb",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0x2b36e8d3a3676c40208bc6e491d3a70d1ac950eb'"
+        ],
+        "description": "BNV fashion NFTs are made in collaboration with a wide range of respectable fashion brands, artists and high profile individuals. Our NFTs come with brand experiences that are unlocked once you have an account at [BNV.ME](https://www.bnv.me).\n\nThe collections and drops represent different communities that co-exist on our discord server. In our community showrooms we help each other make the most of our NFT ownership and get more from the brands we love.",
+        "discord_url": "https://discord.gg/QXqZpupW4S",
+        "instagram_url": "https://www.instagram.com/bnv.me",
+        "medium_url": "",
+        "telegram_url": "https://t.me/bnvmeidfash",
+        "thumbnail_palette": "[\"#DBBFFF\", \"#0064C2\", \"#E6CC55\", \"#E03131\"]",
+        "thumbnail_url": "https://i.seadn.io/gcs/files/a1e9a975a040d5516136307b28fa85a7.jpg?w=500&auto=format",
+        "twitter_url": "https://twitter.com/bnv_me"
+      },
+      "profile": {
+        "blockchain": "ethereum",
+        "brand": "Francis De Lara",
+        "category": "Fashion",
+        "chain_id": 1,
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      },
+      "contract_metadata": {
+        "blockchain": "ethereum",
+        "brand": "Francis De Lara",
+        "category": "Fashion",
+        "chain_id": 1,
+        "contract_address": "0x2b36e8d3a3676c40208bc6e491d3a70d1ac950eb",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0x2b36e8d3a3676c40208bc6e491d3a70d1ac950eb'"
+        ],
+        "description": "BNV fashion NFTs are made in collaboration with a wide range of respectable fashion brands, artists and high profile individuals. Our NFTs come with brand experiences that are unlocked once you have an account at [BNV.ME](https://www.bnv.me).\n\nThe collections and drops represent different communities that co-exist on our discord server. In our community showrooms we help each other make the most of our NFT ownership and get more from the brands we love.",
+        "discord_url": "https://discord.gg/QXqZpupW4S",
+        "instagram_url": "https://www.instagram.com/bnv.me",
+        "medium_url": "",
+        "telegram_url": "https://t.me/bnvmeidfash",
+        "thumbnail_palette": "[\"#DBBFFF\", \"#0064C2\", \"#E6CC55\", \"#E03131\"]",
+        "thumbnail_url": "https://i.seadn.io/gcs/files/a1e9a975a040d5516136307b28fa85a7.jpg?w=500&auto=format",
+        "twitter_url": "https://twitter.com/bnv_me"
+      },
+      "contract_profile": {
+        "blockchain": "ethereum",
+        "brand": "Francis De Lara",
+        "category": "Fashion",
+        "chain_id": 1,
+        "contract_address": "0x2b36e8d3a3676c40208bc6e491d3a70d1ac950eb",
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      },
+      "category": {
+        "blockchain": "ethereum",
+        "brand": "Francis De Lara",
+        "category": "Fashion",
+        "chain_id": 1,
+        "contract_address": "0x2b36e8d3a3676c40208bc6e491d3a70d1ac950eb",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0x2b36e8d3a3676c40208bc6e491d3a70d1ac950eb'"
+        ],
+        "description": "BNV fashion NFTs are made in collaboration with a wide range of respectable fashion brands, artists and high profile individuals. Our NFTs come with brand experiences that are unlocked once you have an account at [BNV.ME](https://www.bnv.me).\n\nThe collections and drops represent different communities that co-exist on our discord server. In our community showrooms we help each other make the most of our NFT ownership and get more from the brands we love.",
+        "discord_url": "https://discord.gg/QXqZpupW4S",
+        "instagram_url": "https://www.instagram.com/bnv.me",
+        "medium_url": "",
+        "telegram_url": "https://t.me/bnvmeidfash",
+        "thumbnail_palette": "[\"#DBBFFF\", \"#0064C2\", \"#E6CC55\", \"#E03131\"]",
+        "thumbnail_url": "https://i.seadn.io/gcs/files/a1e9a975a040d5516136307b28fa85a7.jpg?w=500&auto=format",
+        "twitter_url": "https://twitter.com/bnv_me"
+      }
+    }
+  },
+  {
+    "brand": "G-Star",
+    "data": {
+      "profile": {
+        "blockchain": "ethereum",
+        "brand": "G-Star",
+        "category": "Fashion",
+        "chain_id": 1,
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      },
+      "contract_profile": {
+        "blockchain": "ethereum",
+        "brand": "G-Star",
+        "category": "Fashion",
+        "chain_id": 1,
+        "contract_address": "0x0a9f82853da45422e03fc8f00b265d583922f98e",
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      }
+    }
+  },
+  {
+    "brand": "Gala music",
+    "data": {
+      "profile": {
+        "blockchain": "ethereum",
+        "brand": "Gala music",
+        "category": "music",
+        "chain_id": 1,
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      },
+      "contract_profile": {
+        "blockchain": "ethereum",
+        "brand": "Gala music",
+        "category": "music",
+        "chain_id": 1,
+        "contract_address": "0x63a407bcb34983a5ba683f7555fdfa24dad4f18d",
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      }
+    }
+  },
+  {
+    "brand": "Givenchy",
+    "data": {
+      "metadata": {
+        "blockchain": "ethereum",
+        "brand": "Givenchy",
+        "category": "Fashion",
+        "chain_id": 1,
+        "contract_address": "0xe1eb72894533008a75a50806d77e527e91bde142",
+        "contract_type": "ERC1155",
+        "contracts": [
+          "'0xe1eb72894533008a75a50806d77e527e91bde142'"
+        ],
+        "description": "",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      },
+      "profile": {
+        "blockchain": "ethereum",
+        "brand": "Givenchy",
+        "category": "fashion",
+        "chain_id": 1,
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      },
+      "contract_metadata": {
+        "blockchain": "ethereum",
+        "brand": "Givenchy",
+        "category": "Fashion",
+        "chain_id": 1,
+        "contract_address": "0xe1eb72894533008a75a50806d77e527e91bde142",
+        "contract_type": "ERC1155",
+        "contracts": [
+          "'0xe1eb72894533008a75a50806d77e527e91bde142'"
+        ],
+        "description": "",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      },
+      "contract_profile": {
+        "blockchain": "ethereum",
+        "brand": "Givenchy",
+        "category": "fashion",
+        "chain_id": 1,
+        "contract_address": "0xe1eb72894533008a75a50806d77e527e91bde142",
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      },
+      "category": {
+        "blockchain": "ethereum",
+        "brand": "Givenchy",
+        "category": "Fashion",
+        "chain_id": 1,
+        "contract_address": "0xe1eb72894533008a75a50806d77e527e91bde142",
+        "contract_type": "ERC1155",
+        "contracts": [
+          "'0xe1eb72894533008a75a50806d77e527e91bde142'"
+        ],
+        "description": "",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      }
+    }
+  },
+  {
+    "brand": "Gucci",
+    "data": {
+      "metadata": {
+        "blockchain": "ethereum",
+        "brand": "Gucci",
+        "category": "Fashion",
+        "chain_id": 1,
+        "contract_address": "0xc2223ee780429abecf15e2a418ad8ce861b38630",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0xc2223ee780429abecf15e2a418ad8ce861b38630'"
+        ],
+        "description": "  The archival exhibition  Gucci Cosmos  explores the House s century spanning creativity through various thematic lenses from the origin myth set in a famed London hotel to the ongoing equestrian narrative all the way to a new signature shade of red  Using generative systems  nine artists each hand one of these era defining themes over to new horizons  Visit ",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      },
+      "metrics": {
+        "No_of_contracts": "1",
+        "assets_all": "3",
+        "blockchain": "ethereum",
+        "brand": "Gucci",
+        "chain_id": 1,
+        "collection": "Gucci Grail - 10KTF",
+        "contracts": "0x572e33ffa523865791ab1c26b42a86ac244df784",
+        "growth_rate": 4.285714285714286,
+        "holders": "1",
+        "interactions": "3",
+        "marketplace_volume": [
+          "'opensea':1750.559"
+        ],
+        "mcap": 0,
+        "mint_revenue": 0,
+        "mint_tokens": "0",
+        "primary_sale_revenue": 1750.5590065414494,
+        "retained_traders": "1",
+        "royalty_revenue": 0,
+        "secondary_sale_revenue": 0,
+        "total_revenue": 1750.5590065414494,
+        "total_volume": 1750.5590065414494,
+        "traders": "4"
+      },
+      "profile": {
+        "blockchain": "ethereum",
+        "brand": "Gucci",
+        "category": "fashion",
+        "chain_id": 1,
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      },
+      "contract_metadata": {
+        "blockchain": "ethereum",
+        "brand": "Gucci",
+        "category": "Fashion",
+        "chain_id": 1,
+        "contract_address": "0xc2223ee780429abecf15e2a418ad8ce861b38630",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0xc2223ee780429abecf15e2a418ad8ce861b38630'"
+        ],
+        "description": "  The archival exhibition  Gucci Cosmos  explores the House s century spanning creativity through various thematic lenses from the origin myth set in a famed London hotel to the ongoing equestrian narrative all the way to a new signature shade of red  Using generative systems  nine artists each hand one of these era defining themes over to new horizons  Visit ",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      },
+      "contract_metrics": {
+        "No_of_contracts": "1",
+        "assets_all": "3",
+        "blockchain": "ethereum",
+        "brand": "Gucci",
+        "chain_id": 1,
+        "collection": "Gucci Grail - 10KTF",
+        "contract_address": "0x572e33ffa523865791ab1c26b42a86ac244df784",
+        "contracts": "0x572e33ffa523865791ab1c26b42a86ac244df784",
+        "growth_rate": 8.333333333333332,
+        "holders": "1",
+        "interactions": "3",
+        "marketplace_volume": [
+          "'opensea':1750.559"
+        ],
+        "mcap": 0,
+        "mint_revenue": 0,
+        "mint_tokens": "0",
+        "primary_sale_revenue": 1750.5590065414494,
+        "retained_traders": "1",
+        "royalty_revenue": 0,
+        "secondary_sale_revenue": 0,
+        "total_revenue": 1750.5590065414494,
+        "total_volume": 1750.5590065414494,
+        "traders": "4"
+      },
+      "contract_profile": {
+        "blockchain": "ethereum",
+        "brand": "Gucci",
+        "category": "fashion",
+        "chain_id": 1,
+        "contract_address": "0xc2223ee780429abecf15e2a418ad8ce861b38630",
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      },
+      "category": {
+        "blockchain": "ethereum",
+        "brand": "Gucci",
+        "category": "Fashion",
+        "chain_id": 1,
+        "contract_address": "0xc2223ee780429abecf15e2a418ad8ce861b38630",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0xc2223ee780429abecf15e2a418ad8ce861b38630'"
+        ],
+        "description": "  The archival exhibition  Gucci Cosmos  explores the House s century spanning creativity through various thematic lenses from the origin myth set in a famed London hotel to the ongoing equestrian narrative all the way to a new signature shade of red  Using generative systems  nine artists each hand one of these era defining themes over to new horizons  Visit ",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      }
+    }
+  },
+  {
+    "brand": "Havaianas",
+    "data": {
+      "profile": {
+        "blockchain": "ethereum",
+        "brand": "Havaianas",
+        "category": "fashion",
+        "chain_id": 1,
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      }
+    }
+  },
+  {
+    "brand": "HIGHSNOBIETY",
+    "data": {
+      "profile": {
+        "blockchain": "ethereum",
+        "brand": "HIGHSNOBIETY",
+        "category": "fashion",
+        "chain_id": 1,
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      }
+    }
+  },
+  {
+    "brand": "Hublot",
+    "data": {
+      "metadata": {
+        "blockchain": "ethereum",
+        "brand": "Hublot",
+        "category": "Fashion",
+        "chain_id": 1,
+        "contract_address": "0xa72d82e3003faadb893086b5e379194191ab472d",
+        "contract_type": "ERC1155",
+        "contracts": [
+          "'0xa72d82e3003faadb893086b5e379194191ab472d'"
+        ],
+        "description": "Two static NFTs featuring the smiling flower with its mischievous smile, the iconic theme of international renowned artist Takashi Murakami’s work and his Superflat artistic movement.\n\nThese two NFTs are based on Hublot Classic Fusion All Black and Hublot Classic Fusion Rainbow Sapphire Limited Editions watches.",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      },
+      "profile": {
+        "blockchain": "ethereum",
+        "brand": "Hublot",
+        "category": "fashion",
+        "chain_id": 1,
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      },
+      "contract_metadata": {
+        "blockchain": "ethereum",
+        "brand": "Hublot",
+        "category": "Fashion",
+        "chain_id": 1,
+        "contract_address": "0xa72d82e3003faadb893086b5e379194191ab472d",
+        "contract_type": "ERC1155",
+        "contracts": [
+          "'0xa72d82e3003faadb893086b5e379194191ab472d'"
+        ],
+        "description": "Two static NFTs featuring the smiling flower with its mischievous smile, the iconic theme of international renowned artist Takashi Murakami’s work and his Superflat artistic movement.\n\nThese two NFTs are based on Hublot Classic Fusion All Black and Hublot Classic Fusion Rainbow Sapphire Limited Editions watches.",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      },
+      "category": {
+        "blockchain": "ethereum",
+        "brand": "Hublot",
+        "category": "Fashion",
+        "chain_id": 1,
+        "contract_address": "0xa72d82e3003faadb893086b5e379194191ab472d",
+        "contract_type": "ERC1155",
+        "contracts": [
+          "'0xa72d82e3003faadb893086b5e379194191ab472d'"
+        ],
+        "description": "Two static NFTs featuring the smiling flower with its mischievous smile, the iconic theme of international renowned artist Takashi Murakami’s work and his Superflat artistic movement.\n\nThese two NFTs are based on Hublot Classic Fusion All Black and Hublot Classic Fusion Rainbow Sapphire Limited Editions watches.",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      }
+    }
+  },
+  {
+    "brand": "Hugo",
+    "data": {
+      "metadata": {
+        "blockchain": "ethereum",
+        "brand": "Hugo",
+        "category": "Fashion",
+        "chain_id": 1,
+        "contract_address": "0xe4d20bc4a845aa35b008f5f9f85e50b581df7263",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0xe4d20bc4a845aa35b008f5f9f85e50b581df7263'"
+        ],
+        "description": "A collaboration between HUGO and Imaginary Ones to create a NFT collection that focuses on embracing your emotions.     With this collection, you will be part of HUGO & IO's future metaverse plans. Each NFT allows you access into Imaginary Ones’ staking ecosystem, which grants the holder a separate set of special HUGO x IO merchandise, experiences and content. Going forward, HUGO and Imaginary Ones will explore various ways to continue strengthening this partnership and provide further value to holders of the collection, including exclusive experiences in the metaverse. Sadness is an emotion that can occur in response to a negative or unexpected situation. Letting yourself feel sad doesn't mean wallowing in self-pity. Instead, sadness can help you come to terms with a particular situation and is an important emotion that can help you adapt, accept, persevere, and grow. The gloomy, dark clouds depicted in the character's head are used to represent feelings of sadness. And just like the clouds in the sky, those darker times will soon pass. Fear is one of the basic emotions that everyone feels at some point or another. We often feel fear when we sense a threat - real or imaginary. It is programmed into our nervous system and gives us the survival instincts we need to keep ourselves safe from danger. While it can be uncomfortable, fear can be healthy when managed in a balanced way. The concept of ghosts or spiritual beings may cause some to feel fear. For this character, fear is represented by the ghostly head, while the purple spheres for the body conjure a sense of mystery and the unknown. Joy is often mistaken for happiness. While happiness is usually felt in short bursts of intense excitement, joy is a long-term statement of feeling that stems from contentment. The character's head is depicted by a glowing sun. For many, the summer months are some of the most joyous, evoking a feeling of positivity and warmth. When the sun is up in the sky, even the toughest days can feel a little less difficult. Anger is an emotion that we are all familiar with. We have all felt it at times either as a fleeting annoyance or as a full-fledged rage. Anger is necessary for our survival, and provides us with the drive and ability to defend ourselves. It's our brain's way of keeping us safe. Feelings of anger can be healthy if we learn how to cope with it. This emotion is represented by the burning fire and clenched fists in the character. Love can be seen as an emotional experience that is characterised by the sort of profound ecstasy or deep attachment we have for someone or something. While there are many types of love, it usually involves emotions and behaviours characterised by passion, intimacy, and commitment. The heart and cupid's arrow can be seen as a universal symbol of love and is used to represent this character. This last legendary character is an amalgamation of all 5 emotions and is a representation of each and every one of us. We all encounter feelings of joy, sadness, fear, anger and love - and we want to encourage everyone to know that your feelings are valid and to embrace your emotions. All human emotions have value. Both negative emotions and emotional stress can help us grow if we allow ourselves to feel them authentically. We aspire for people to embrace all their emotions - allowing yourself the freedom to feel and express is key to one's mental well-being. Green is a widely used colour for mental health awareness, which are represented by the green spheres of this character. Walking in the zen garden, it is a serene and peaceful place for people to open up and fully embrace their emotions.   Imaginary Ones is an NFT collection comprising 8,888 fully animated and 3D characters on the Ethereum network. Founded by Clement Chia and David Lee, Imaginary Ones believes in using art to spread love, positivity and creativity.   HUGO, the younger of the HUGO BOSS brands, is the platform for self-expression and authentic dressing. Globally engaged, always curious and uniquely expressive, HUGO creates clothes for those who lead rather than follow to push individuality and boundless styling forward. Now in teaming up with Imaginary Ones, HUGO encourages its community to embrace their emotions in their own way.",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      },
+      "metrics": {
+        "No_of_contracts": "1",
+        "assets_all": "2",
+        "blockchain": "ethereum",
+        "brand": "Hugo",
+        "chain_id": 1,
+        "collection": "HUGO x Imaginary Ones: Embrace Your Emotions",
+        "contracts": "0xe4d20bc4a845aa35b008f5f9f85e50b581df7263",
+        "growth_rate": 6.0606060606060606,
+        "holders": "2",
+        "interactions": "2",
+        "marketplace_volume": [
+          "'blur':164.90617"
+        ],
+        "mcap": 0,
+        "mint_revenue": 0,
+        "mint_tokens": "0",
+        "primary_sale_revenue": 164.90617584850332,
+        "retained_traders": "1",
+        "royalty_revenue": 0,
+        "secondary_sale_revenue": 0,
+        "total_revenue": 164.90617584850332,
+        "total_volume": 164.90617584850332,
+        "traders": "4"
+      },
+      "profile": {
+        "blockchain": "ethereum",
+        "brand": "Hugo",
+        "category": "fashion",
+        "chain_id": 1,
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      },
+      "contract_metadata": {
+        "blockchain": "ethereum",
+        "brand": "Hugo",
+        "category": "Fashion",
+        "chain_id": 1,
+        "contract_address": "0xe4d20bc4a845aa35b008f5f9f85e50b581df7263",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0xe4d20bc4a845aa35b008f5f9f85e50b581df7263'"
+        ],
+        "description": "A collaboration between HUGO and Imaginary Ones to create a NFT collection that focuses on embracing your emotions.     With this collection, you will be part of HUGO & IO's future metaverse plans. Each NFT allows you access into Imaginary Ones’ staking ecosystem, which grants the holder a separate set of special HUGO x IO merchandise, experiences and content. Going forward, HUGO and Imaginary Ones will explore various ways to continue strengthening this partnership and provide further value to holders of the collection, including exclusive experiences in the metaverse. Sadness is an emotion that can occur in response to a negative or unexpected situation. Letting yourself feel sad doesn't mean wallowing in self-pity. Instead, sadness can help you come to terms with a particular situation and is an important emotion that can help you adapt, accept, persevere, and grow. The gloomy, dark clouds depicted in the character's head are used to represent feelings of sadness. And just like the clouds in the sky, those darker times will soon pass. Fear is one of the basic emotions that everyone feels at some point or another. We often feel fear when we sense a threat - real or imaginary. It is programmed into our nervous system and gives us the survival instincts we need to keep ourselves safe from danger. While it can be uncomfortable, fear can be healthy when managed in a balanced way. The concept of ghosts or spiritual beings may cause some to feel fear. For this character, fear is represented by the ghostly head, while the purple spheres for the body conjure a sense of mystery and the unknown. Joy is often mistaken for happiness. While happiness is usually felt in short bursts of intense excitement, joy is a long-term statement of feeling that stems from contentment. The character's head is depicted by a glowing sun. For many, the summer months are some of the most joyous, evoking a feeling of positivity and warmth. When the sun is up in the sky, even the toughest days can feel a little less difficult. Anger is an emotion that we are all familiar with. We have all felt it at times either as a fleeting annoyance or as a full-fledged rage. Anger is necessary for our survival, and provides us with the drive and ability to defend ourselves. It's our brain's way of keeping us safe. Feelings of anger can be healthy if we learn how to cope with it. This emotion is represented by the burning fire and clenched fists in the character. Love can be seen as an emotional experience that is characterised by the sort of profound ecstasy or deep attachment we have for someone or something. While there are many types of love, it usually involves emotions and behaviours characterised by passion, intimacy, and commitment. The heart and cupid's arrow can be seen as a universal symbol of love and is used to represent this character. This last legendary character is an amalgamation of all 5 emotions and is a representation of each and every one of us. We all encounter feelings of joy, sadness, fear, anger and love - and we want to encourage everyone to know that your feelings are valid and to embrace your emotions. All human emotions have value. Both negative emotions and emotional stress can help us grow if we allow ourselves to feel them authentically. We aspire for people to embrace all their emotions - allowing yourself the freedom to feel and express is key to one's mental well-being. Green is a widely used colour for mental health awareness, which are represented by the green spheres of this character. Walking in the zen garden, it is a serene and peaceful place for people to open up and fully embrace their emotions.   Imaginary Ones is an NFT collection comprising 8,888 fully animated and 3D characters on the Ethereum network. Founded by Clement Chia and David Lee, Imaginary Ones believes in using art to spread love, positivity and creativity.   HUGO, the younger of the HUGO BOSS brands, is the platform for self-expression and authentic dressing. Globally engaged, always curious and uniquely expressive, HUGO creates clothes for those who lead rather than follow to push individuality and boundless styling forward. Now in teaming up with Imaginary Ones, HUGO encourages its community to embrace their emotions in their own way.",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      },
+      "contract_metrics": {
+        "No_of_contracts": "1",
+        "assets_all": "2",
+        "blockchain": "ethereum",
+        "brand": "Hugo",
+        "chain_id": 1,
+        "collection": "HUGO x Imaginary Ones: Embrace Your Emotions",
+        "contract_address": "0xe4d20bc4a845aa35b008f5f9f85e50b581df7263",
+        "contracts": "0xe4d20bc4a845aa35b008f5f9f85e50b581df7263",
+        "growth_rate": 6.0606060606060606,
+        "holders": "2",
+        "interactions": "2",
+        "marketplace_volume": [
+          "'blur':164.90617"
+        ],
+        "mcap": 0,
+        "mint_revenue": 0,
+        "mint_tokens": "0",
+        "primary_sale_revenue": 164.90617584850332,
+        "retained_traders": "1",
+        "royalty_revenue": 0,
+        "secondary_sale_revenue": 0,
+        "total_revenue": 164.90617584850332,
+        "total_volume": 164.90617584850332,
+        "traders": "4"
+      },
+      "category": {
+        "blockchain": "ethereum",
+        "brand": "Hugo",
+        "category": "Fashion",
+        "chain_id": 1,
+        "contract_address": "0xe4d20bc4a845aa35b008f5f9f85e50b581df7263",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0xe4d20bc4a845aa35b008f5f9f85e50b581df7263'"
+        ],
+        "description": "A collaboration between HUGO and Imaginary Ones to create a NFT collection that focuses on embracing your emotions.     With this collection, you will be part of HUGO & IO's future metaverse plans. Each NFT allows you access into Imaginary Ones’ staking ecosystem, which grants the holder a separate set of special HUGO x IO merchandise, experiences and content. Going forward, HUGO and Imaginary Ones will explore various ways to continue strengthening this partnership and provide further value to holders of the collection, including exclusive experiences in the metaverse. Sadness is an emotion that can occur in response to a negative or unexpected situation. Letting yourself feel sad doesn't mean wallowing in self-pity. Instead, sadness can help you come to terms with a particular situation and is an important emotion that can help you adapt, accept, persevere, and grow. The gloomy, dark clouds depicted in the character's head are used to represent feelings of sadness. And just like the clouds in the sky, those darker times will soon pass. Fear is one of the basic emotions that everyone feels at some point or another. We often feel fear when we sense a threat - real or imaginary. It is programmed into our nervous system and gives us the survival instincts we need to keep ourselves safe from danger. While it can be uncomfortable, fear can be healthy when managed in a balanced way. The concept of ghosts or spiritual beings may cause some to feel fear. For this character, fear is represented by the ghostly head, while the purple spheres for the body conjure a sense of mystery and the unknown. Joy is often mistaken for happiness. While happiness is usually felt in short bursts of intense excitement, joy is a long-term statement of feeling that stems from contentment. The character's head is depicted by a glowing sun. For many, the summer months are some of the most joyous, evoking a feeling of positivity and warmth. When the sun is up in the sky, even the toughest days can feel a little less difficult. Anger is an emotion that we are all familiar with. We have all felt it at times either as a fleeting annoyance or as a full-fledged rage. Anger is necessary for our survival, and provides us with the drive and ability to defend ourselves. It's our brain's way of keeping us safe. Feelings of anger can be healthy if we learn how to cope with it. This emotion is represented by the burning fire and clenched fists in the character. Love can be seen as an emotional experience that is characterised by the sort of profound ecstasy or deep attachment we have for someone or something. While there are many types of love, it usually involves emotions and behaviours characterised by passion, intimacy, and commitment. The heart and cupid's arrow can be seen as a universal symbol of love and is used to represent this character. This last legendary character is an amalgamation of all 5 emotions and is a representation of each and every one of us. We all encounter feelings of joy, sadness, fear, anger and love - and we want to encourage everyone to know that your feelings are valid and to embrace your emotions. All human emotions have value. Both negative emotions and emotional stress can help us grow if we allow ourselves to feel them authentically. We aspire for people to embrace all their emotions - allowing yourself the freedom to feel and express is key to one's mental well-being. Green is a widely used colour for mental health awareness, which are represented by the green spheres of this character. Walking in the zen garden, it is a serene and peaceful place for people to open up and fully embrace their emotions.   Imaginary Ones is an NFT collection comprising 8,888 fully animated and 3D characters on the Ethereum network. Founded by Clement Chia and David Lee, Imaginary Ones believes in using art to spread love, positivity and creativity.   HUGO, the younger of the HUGO BOSS brands, is the platform for self-expression and authentic dressing. Globally engaged, always curious and uniquely expressive, HUGO creates clothes for those who lead rather than follow to push individuality and boundless styling forward. Now in teaming up with Imaginary Ones, HUGO encourages its community to embrace their emotions in their own way.",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      }
+    }
+  },
+  {
+    "brand": "Karafuru",
+    "data": {
+      "metadata": {
+        "blockchain": "ethereum",
+        "brand": "Karafuru",
+        "category": "Fashion",
+        "chain_id": 1,
+        "contract_address": "0x32f2a60942e7563cfc42766018641c6c6b10830e",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0x32f2a60942e7563cfc42766018641c6c6b10830e'"
+        ],
+        "description": "The 3D Karafuru collection consists of high-end 3D avatars that ensure all of our Genesis Karafuru holders can be Metaverse ready. Co-developed with HYPEBEAST and atmos, these 15,555 NFT tokens bring the epitome of lifestyle culture, passion, and influence into the Web3 Metaverse.",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      },
+      "profile": {
+        "blockchain": "ethereum",
+        "brand": "Karafuru",
+        "category": "fashion",
+        "chain_id": 1,
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      },
+      "contract_metadata": {
+        "blockchain": "ethereum",
+        "brand": "Karafuru",
+        "category": "Fashion",
+        "chain_id": 1,
+        "contract_address": "0x32f2a60942e7563cfc42766018641c6c6b10830e",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0x32f2a60942e7563cfc42766018641c6c6b10830e'"
+        ],
+        "description": "The 3D Karafuru collection consists of high-end 3D avatars that ensure all of our Genesis Karafuru holders can be Metaverse ready. Co-developed with HYPEBEAST and atmos, these 15,555 NFT tokens bring the epitome of lifestyle culture, passion, and influence into the Web3 Metaverse.",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      },
+      "category": {
+        "blockchain": "ethereum",
+        "brand": "Karafuru",
+        "category": "Fashion",
+        "chain_id": 1,
+        "contract_address": "0x32f2a60942e7563cfc42766018641c6c6b10830e",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0x32f2a60942e7563cfc42766018641c6c6b10830e'"
+        ],
+        "description": "The 3D Karafuru collection consists of high-end 3D avatars that ensure all of our Genesis Karafuru holders can be Metaverse ready. Co-developed with HYPEBEAST and atmos, these 15,555 NFT tokens bring the epitome of lifestyle culture, passion, and influence into the Web3 Metaverse.",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      }
+    }
+  },
+  {
+    "brand": "Kingship",
+    "data": {
+      "profile": {
+        "blockchain": "ethereum",
+        "brand": "Kingship",
+        "category": "music",
+        "chain_id": 1,
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      }
+    }
+  },
+  {
+    "brand": "Kith Friends",
+    "data": {
+      "metadata": {
+        "blockchain": "ethereum",
+        "brand": "Kith Friends",
+        "category": "Fashion",
+        "chain_id": 1,
+        "contract_address": "0x130cfab3817467f532c179d4e6502f5a7e7d44c7",
+        "contract_type": "ERC1155",
+        "contracts": [
+          "'0x130cfab3817467f532c179d4e6502f5a7e7d44c7'"
+        ],
+        "description": "Kith Friends is a collaborative project between Kith and Invisible Friends.  12 items",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      },
+      "profile": {
+        "blockchain": "ethereum",
+        "brand": "Kith Friends",
+        "category": "fashion",
+        "chain_id": 1,
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      },
+      "contract_metadata": {
+        "blockchain": "ethereum",
+        "brand": "Kith Friends",
+        "category": "Fashion",
+        "chain_id": 1,
+        "contract_address": "0x130cfab3817467f532c179d4e6502f5a7e7d44c7",
+        "contract_type": "ERC1155",
+        "contracts": [
+          "'0x130cfab3817467f532c179d4e6502f5a7e7d44c7'"
+        ],
+        "description": "Kith Friends is a collaborative project between Kith and Invisible Friends.  12 items",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      },
+      "category": {
+        "blockchain": "ethereum",
+        "brand": "Kith Friends",
+        "category": "Fashion",
+        "chain_id": 1,
+        "contract_address": "0x130cfab3817467f532c179d4e6502f5a7e7d44c7",
+        "contract_type": "ERC1155",
+        "contracts": [
+          "'0x130cfab3817467f532c179d4e6502f5a7e7d44c7'"
+        ],
+        "description": "Kith Friends is a collaborative project between Kith and Invisible Friends.  12 items",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      }
+    }
+  },
+  {
+    "brand": "lacoste",
+    "data": {
+      "metrics": {
+        "No_of_contracts": "1",
+        "assets_all": "3",
+        "blockchain": "ethereum",
+        "brand": "lacoste",
+        "chain_id": 1,
+        "collection": "Lacoste UNDW3: The Emerge",
+        "contracts": "0xd4190dd1da460fc7bc41a792e688604778820ac9",
+        "growth_rate": 2.2058823529411766,
+        "holders": "2",
+        "interactions": "3",
+        "marketplace_volume": [
+          "'blur':33.382824",
+          "'opensea':29.67736"
+        ],
+        "mcap": 0,
+        "mint_revenue": 0,
+        "mint_tokens": "0",
+        "primary_sale_revenue": 63.06018512832992,
+        "retained_traders": "2",
+        "royalty_revenue": 0,
+        "secondary_sale_revenue": 0,
+        "total_revenue": 63.06018512832992,
+        "total_volume": 63.06018512832992,
+        "traders": "4"
+      },
+      "contract_metrics": {
+        "No_of_contracts": "1",
+        "assets_all": "3",
+        "blockchain": "ethereum",
+        "brand": "lacoste",
+        "chain_id": 1,
+        "collection": "Lacoste UNDW3: The Emerge",
+        "contract_address": "0xd4190dd1da460fc7bc41a792e688604778820ac9",
+        "contracts": "0xd4190dd1da460fc7bc41a792e688604778820ac9",
+        "growth_rate": 3.7037037037037033,
+        "holders": "2",
+        "interactions": "3",
+        "marketplace_volume": [
+          "'opensea':29.67736",
+          "'blur':33.382824"
+        ],
+        "mcap": 0,
+        "mint_revenue": 0,
+        "mint_tokens": "0",
+        "primary_sale_revenue": 63.06018512832992,
+        "retained_traders": "2",
+        "royalty_revenue": 0,
+        "secondary_sale_revenue": 0,
+        "total_revenue": 63.06018512832992,
+        "total_volume": 63.06018512832992,
+        "traders": "4"
+      }
+    }
+  },
+  {
+    "brand": "Lamborghini",
+    "data": {
+      "metadata": {
+        "blockchain": "ethereum",
+        "brand": "Lamborghini",
+        "category": "Sports",
+        "chain_id": 1,
+        "contract_address": "0x8ca1ad5960f4927554da64c4da2d0fe559e5f9e6",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0x8ca1ad5960f4927554da64c4da2d0fe559e5f9e6'"
+        ],
+        "description": "A lot can happen in 60 years, and Automobili Lamborghini’s epic journey has been at top speed since the beginning - from innovation and design, to electrifying technology that bridges sustainability and luxury. In celebration of the future beginning in 1963, we welcome you to The Epic Road Trip. An 8-month campaign featuring a curated set of NFTs inspired by Automobili Lamborghini’s timeless heritage. These NFT drops offer fans, collectors, enthusiasts, and the crypto community the opportunity to collect the ultimate set of digital collectibles and experience an epic Automobili Lamborghini road trip like never before.",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      },
+      "profile": {
+        "blockchain": "ethereum",
+        "brand": "Lamborghini",
+        "category": "sports",
+        "chain_id": 1,
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      },
+      "contract_metadata": {
+        "blockchain": "ethereum",
+        "brand": "Lamborghini",
+        "category": "Sports",
+        "chain_id": 1,
+        "contract_address": "0x8ca1ad5960f4927554da64c4da2d0fe559e5f9e6",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0x8ca1ad5960f4927554da64c4da2d0fe559e5f9e6'"
+        ],
+        "description": "A lot can happen in 60 years, and Automobili Lamborghini’s epic journey has been at top speed since the beginning - from innovation and design, to electrifying technology that bridges sustainability and luxury. In celebration of the future beginning in 1963, we welcome you to The Epic Road Trip. An 8-month campaign featuring a curated set of NFTs inspired by Automobili Lamborghini’s timeless heritage. These NFT drops offer fans, collectors, enthusiasts, and the crypto community the opportunity to collect the ultimate set of digital collectibles and experience an epic Automobili Lamborghini road trip like never before.",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      },
+      "category": {
+        "blockchain": "ethereum",
+        "brand": "Lamborghini",
+        "category": "Sports",
+        "chain_id": 1,
+        "contract_address": "0x8ca1ad5960f4927554da64c4da2d0fe559e5f9e6",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0x8ca1ad5960f4927554da64c4da2d0fe559e5f9e6'"
+        ],
+        "description": "A lot can happen in 60 years, and Automobili Lamborghini’s epic journey has been at top speed since the beginning - from innovation and design, to electrifying technology that bridges sustainability and luxury. In celebration of the future beginning in 1963, we welcome you to The Epic Road Trip. An 8-month campaign featuring a curated set of NFTs inspired by Automobili Lamborghini’s timeless heritage. These NFT drops offer fans, collectors, enthusiasts, and the crypto community the opportunity to collect the ultimate set of digital collectibles and experience an epic Automobili Lamborghini road trip like never before.",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      }
+    }
+  },
+  {
+    "brand": "LoudPunx",
+    "data": {
+      "profile": {
+        "blockchain": "ethereum",
+        "brand": "LoudPunx",
+        "category": "music",
+        "chain_id": 1,
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      }
+    }
+  },
+  {
+    "brand": "Louis vuitton",
+    "data": {
+      "metadata": {
+        "blockchain": "ethereum",
+        "brand": "Louis vuitton",
+        "category": "Fashion",
+        "chain_id": 1,
+        "contract_address": "0xef32757733462c6e1a6bef5cbf5277f4c9d71a17",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0xef32757733462c6e1a6bef5cbf5277f4c9d71a17'"
+        ],
+        "description": "            Pharrell Williams inaugurates the first VIA journey with a bold and joyful vision  The Speedy P9 VIA Pharrell Williams  new digital travel companion  revisits the Maison s iconic bag from 1930  The collectible bridges digital art with craftmanship from Virginia to Paris and the past with the present and the future  unveiling the hidden secrets of the VIA Treasure Trunk      ",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      },
+      "profile": {
+        "blockchain": "ethereum",
+        "brand": "Louis vuitton",
+        "category": "arts",
+        "chain_id": 1,
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      },
+      "contract_metadata": {
+        "blockchain": "ethereum",
+        "brand": "Louis vuitton",
+        "category": "Fashion",
+        "chain_id": 1,
+        "contract_address": "0xef32757733462c6e1a6bef5cbf5277f4c9d71a17",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0xef32757733462c6e1a6bef5cbf5277f4c9d71a17'"
+        ],
+        "description": "            Pharrell Williams inaugurates the first VIA journey with a bold and joyful vision  The Speedy P9 VIA Pharrell Williams  new digital travel companion  revisits the Maison s iconic bag from 1930  The collectible bridges digital art with craftmanship from Virginia to Paris and the past with the present and the future  unveiling the hidden secrets of the VIA Treasure Trunk      ",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      },
+      "category": {
+        "blockchain": "ethereum",
+        "brand": "Louis vuitton",
+        "category": "Fashion",
+        "chain_id": 1,
+        "contract_address": "0xef32757733462c6e1a6bef5cbf5277f4c9d71a17",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0xef32757733462c6e1a6bef5cbf5277f4c9d71a17'"
+        ],
+        "description": "            Pharrell Williams inaugurates the first VIA journey with a bold and joyful vision  The Speedy P9 VIA Pharrell Williams  new digital travel companion  revisits the Maison s iconic bag from 1930  The collectible bridges digital art with craftmanship from Virginia to Paris and the past with the present and the future  unveiling the hidden secrets of the VIA Treasure Trunk      ",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      }
+    }
+  },
+  {
+    "brand": "Mercedes Benz",
+    "data": {
+      "metadata": {
+        "blockchain": "ethereum",
+        "brand": "Mercedes Benz",
+        "category": "Sports",
+        "chain_id": 1,
+        "contract_address": "0x88bfe418f44f367200e683ed7981f6e02363a041",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0x88bfe418f44f367200e683ed7981f6e02363a041'"
+        ],
+        "description": "The G-Class has crossed almost every terrain imaginable in its 43-year history, and now the iconic off-roader can add the metaverse to its list of destinations.",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      },
+      "metrics": {
+        "No_of_contracts": "1",
+        "assets_all": "1",
+        "blockchain": "ethereum",
+        "brand": "Mercedes Benz",
+        "chain_id": 1,
+        "collection": "NFG by ART2PEOPLE x Mercedes-Benz G-Wagon",
+        "contracts": "0x88bfe418f44f367200e683ed7981f6e02363a041",
+        "growth_rate": 100,
+        "holders": "1",
+        "interactions": "1",
+        "marketplace_volume": [],
+        "mcap": 0,
+        "mint_revenue": 0,
+        "mint_tokens": "0",
+        "primary_sale_revenue": 0,
+        "retained_traders": "0",
+        "royalty_revenue": 0,
+        "secondary_sale_revenue": 0,
+        "total_revenue": 0,
+        "total_volume": 0,
+        "traders": "2"
+      },
+      "profile": {
+        "blockchain": "ethereum",
+        "brand": "Mercedes Benz",
+        "category": "sports",
+        "chain_id": 1,
+        "diamond_hands": "0",
+        "loss_making_trades": "0",
+        "loss_making_volume": 0,
+        "profitable_trades": "0",
+        "profitable_volume": 0,
+        "token_score": 0
+      },
+      "contract_metadata": {
+        "blockchain": "ethereum",
+        "brand": "Mercedes Benz",
+        "category": "Sports",
+        "chain_id": 1,
+        "contract_address": "0x88bfe418f44f367200e683ed7981f6e02363a041",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0x88bfe418f44f367200e683ed7981f6e02363a041'"
+        ],
+        "description": "The G-Class has crossed almost every terrain imaginable in its 43-year history, and now the iconic off-roader can add the metaverse to its list of destinations.",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      },
+      "contract_metrics": {
+        "No_of_contracts": "1",
+        "assets_all": "1",
+        "blockchain": "ethereum",
+        "brand": "Mercedes Benz",
+        "chain_id": 1,
+        "collection": "NFG by ART2PEOPLE x Mercedes-Benz G-Wagon",
+        "contract_address": "0x88bfe418f44f367200e683ed7981f6e02363a041",
+        "contracts": "0x88bfe418f44f367200e683ed7981f6e02363a041",
+        "growth_rate": 100,
+        "holders": "1",
+        "interactions": "1",
+        "marketplace_volume": [],
+        "mcap": 0,
+        "mint_revenue": 0,
+        "mint_tokens": "0",
+        "primary_sale_revenue": 0,
+        "retained_traders": "0",
+        "royalty_revenue": 0,
+        "secondary_sale_revenue": 0,
+        "total_revenue": 0,
+        "total_volume": 0,
+        "traders": "2"
+      },
+      "category": {
+        "blockchain": "ethereum",
+        "brand": "Mercedes Benz",
+        "category": "Sports",
+        "chain_id": 1,
+        "contract_address": "0x88bfe418f44f367200e683ed7981f6e02363a041",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0x88bfe418f44f367200e683ed7981f6e02363a041'"
+        ],
+        "description": "The G-Class has crossed almost every terrain imaginable in its 43-year history, and now the iconic off-roader can add the metaverse to its list of destinations.",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      }
+    }
+  },
+  {
+    "brand": "metaverse",
+    "data": {
+      "metrics": {
+        "No_of_contracts": "1",
+        "assets_all": "7",
+        "blockchain": "ethereum",
+        "brand": "metaverse",
+        "chain_id": 1,
+        "collection": "Otherdeed for Otherside",
+        "contracts": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+        "growth_rate": 1.0626992561105209,
+        "holders": "11",
+        "interactions": "9",
+        "marketplace_volume": [
+          "'blur':567.4919",
+          "'otherdeed ':0",
+          "'opensea':2787.3135"
+        ],
+        "mcap": 0,
+        "mint_revenue": 0,
+        "mint_tokens": "0",
+        "primary_sale_revenue": 1075.8985749832902,
+        "retained_traders": "4",
+        "royalty_revenue": 0,
+        "secondary_sale_revenue": 2759.0936235659974,
+        "total_revenue": 1075.8985749832902,
+        "total_volume": 3834.9921985492874,
+        "traders": "15"
+      },
+      "contract_metrics": {
+        "No_of_contracts": "1",
+        "assets_all": "7",
+        "blockchain": "ethereum",
+        "brand": "metaverse",
+        "chain_id": 1,
+        "collection": "Otherdeed for Otherside",
+        "contract_address": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+        "contracts": "0x34d85c9cdeb23fa97cb08333b511ac86e1c4e258",
+        "growth_rate": 1.0626992561105209,
+        "holders": "11",
+        "interactions": "9",
+        "marketplace_volume": [
+          "'otherdeed ':0",
+          "'blur':567.4919",
+          "'opensea':2787.3135"
+        ],
+        "mcap": 0,
+        "mint_revenue": 0,
+        "mint_tokens": "0",
+        "primary_sale_revenue": 1075.8985749832902,
+        "retained_traders": "4",
+        "royalty_revenue": 0,
+        "secondary_sale_revenue": 2759.0936235659974,
+        "total_revenue": 1075.8985749832902,
+        "total_volume": 3834.9921985492874,
+        "traders": "15"
+      }
+    }
+  },
+  {
+    "brand": "Nike",
+    "data": {
+      "metadata": {
+        "blockchain": "ethereum",
+        "brand": "Nike",
+        "category": "Sports",
+        "chain_id": 1,
+        "contract_address": "0x9a06ef3a841316a9e2c1c93b9c21a7342abe484f",
+        "contract_type": "ERC1155",
+        "contracts": [
+          "'0x9a06ef3a841316a9e2c1c93b9c21a7342abe484f'"
+        ],
+        "description": "RTFKT Skin Vials allow you to change the look of the RTFKT x NIKE DUNK GENESIS CRYPTOKICKS or any compatible CRYPTOKICKS with limited edition skins.RTFKT's first Skin Vial Tech collection, EVO X,  features 8 Clone X DNA based Evolutive SkinsPlease Read : Because the blockchain is not fast enough with processing changes at the moment of buying, don't buy/bid (on) equipped sneakers.To prevent any exploit : we recommend to\n\nnot try to buy/bid on Sneakers with Equipped Skins in this collection.Only buy / bid on Skin VIALS in this collection :\nhttps://opensea.io/collection/skinvial-evoxGet your RTFKT x NIKE DUNK GENESIS CRYPTOKICKS here: https://opensea.io/collection/rtfkt-nike-cryptokicksEquip your skin vial here: https://mnlth.rtfkt.com/",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      },
+      "metrics": {
+        "No_of_contracts": "1",
+        "assets_all": "21",
+        "blockchain": "ethereum",
+        "brand": "Nike",
+        "chain_id": 1,
+        "collection": "CLONE X - X TAKASHI MURAKAMI",
+        "contracts": "0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b",
+        "growth_rate": 1.0742643624474544,
+        "holders": "20",
+        "interactions": "18",
+        "marketplace_volume": [
+          "'blur':6126.339",
+          "'opensea':3709.8027"
+        ],
+        "mcap": 0,
+        "mint_revenue": 0,
+        "mint_tokens": "0",
+        "primary_sale_revenue": 6180.713329223128,
+        "retained_traders": "10",
+        "royalty_revenue": 0,
+        "secondary_sale_revenue": 3655.428140727214,
+        "total_revenue": 6180.713329223128,
+        "total_volume": 9836.141469950342,
+        "traders": "31"
+      },
+      "contract_metadata": {
+        "blockchain": "ethereum",
+        "brand": "Nike",
+        "category": "Sports",
+        "chain_id": 1,
+        "contract_address": "0x9a06ef3a841316a9e2c1c93b9c21a7342abe484f",
+        "contract_type": "ERC1155",
+        "contracts": [
+          "'0x9a06ef3a841316a9e2c1c93b9c21a7342abe484f'"
+        ],
+        "description": "RTFKT Skin Vials allow you to change the look of the RTFKT x NIKE DUNK GENESIS CRYPTOKICKS or any compatible CRYPTOKICKS with limited edition skins.RTFKT's first Skin Vial Tech collection, EVO X,  features 8 Clone X DNA based Evolutive SkinsPlease Read : Because the blockchain is not fast enough with processing changes at the moment of buying, don't buy/bid (on) equipped sneakers.To prevent any exploit : we recommend to\n\nnot try to buy/bid on Sneakers with Equipped Skins in this collection.Only buy / bid on Skin VIALS in this collection :\nhttps://opensea.io/collection/skinvial-evoxGet your RTFKT x NIKE DUNK GENESIS CRYPTOKICKS here: https://opensea.io/collection/rtfkt-nike-cryptokicksEquip your skin vial here: https://mnlth.rtfkt.com/",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      },
+      "contract_metrics": {
+        "No_of_contracts": "1",
+        "assets_all": "21",
+        "blockchain": "ethereum",
+        "brand": "Nike",
+        "chain_id": 1,
+        "collection": "CLONE X - X TAKASHI MURAKAMI",
+        "contract_address": "0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b",
+        "contracts": "0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b",
+        "growth_rate": 1.1465603190428715,
+        "holders": "20",
+        "interactions": "18",
+        "marketplace_volume": [
+          "'blur':6126.339",
+          "'opensea':3709.8027"
+        ],
+        "mcap": 0,
+        "mint_revenue": 0,
+        "mint_tokens": "0",
+        "primary_sale_revenue": 6180.713329223128,
+        "retained_traders": "10",
+        "royalty_revenue": 0,
+        "secondary_sale_revenue": 3655.428140727214,
+        "total_revenue": 6180.713329223128,
+        "total_volume": 9836.141469950342,
+        "traders": "31"
+      },
+      "category": {
+        "blockchain": "ethereum",
+        "brand": "Nike",
+        "category": "Sports",
+        "chain_id": 1,
+        "contract_address": "0x9a06ef3a841316a9e2c1c93b9c21a7342abe484f",
+        "contract_type": "ERC1155",
+        "contracts": [
+          "'0x9a06ef3a841316a9e2c1c93b9c21a7342abe484f'"
+        ],
+        "description": "RTFKT Skin Vials allow you to change the look of the RTFKT x NIKE DUNK GENESIS CRYPTOKICKS or any compatible CRYPTOKICKS with limited edition skins.RTFKT's first Skin Vial Tech collection, EVO X,  features 8 Clone X DNA based Evolutive SkinsPlease Read : Because the blockchain is not fast enough with processing changes at the moment of buying, don't buy/bid (on) equipped sneakers.To prevent any exploit : we recommend to\n\nnot try to buy/bid on Sneakers with Equipped Skins in this collection.Only buy / bid on Skin VIALS in this collection :\nhttps://opensea.io/collection/skinvial-evoxGet your RTFKT x NIKE DUNK GENESIS CRYPTOKICKS here: https://opensea.io/collection/rtfkt-nike-cryptokicksEquip your skin vial here: https://mnlth.rtfkt.com/",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      }
+    }
+  },
+  {
+    "brand": "Pepsi",
+    "data": {
+      "metadata": {
+        "blockchain": "ethereum",
+        "brand": "Pepsi",
+        "category": "Food & Beverage",
+        "chain_id": 1,
+        "contract_address": "0xa67d63e68715dcf9b65e45e5118b5fcd1e554b5f",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0xa67d63e68715dcf9b65e45e5118b5fcd1e554b5f'"
+        ],
+        "description": "The Pepsi Mic Drop genesis NFT is a generative-style collection of unique NFTs that live on the Ethereum blockchain. A nod to the year Pepsi was born, each of our 1,893 genesis tokens are created using nearly 50 unique attributes across 6 categories, including microphones, stages, accessories, and more.",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      },
+      "contract_metadata": {
+        "blockchain": "ethereum",
+        "brand": "Pepsi",
+        "category": "Food & Beverage",
+        "chain_id": 1,
+        "contract_address": "0xa67d63e68715dcf9b65e45e5118b5fcd1e554b5f",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0xa67d63e68715dcf9b65e45e5118b5fcd1e554b5f'"
+        ],
+        "description": "The Pepsi Mic Drop genesis NFT is a generative-style collection of unique NFTs that live on the Ethereum blockchain. A nod to the year Pepsi was born, each of our 1,893 genesis tokens are created using nearly 50 unique attributes across 6 categories, including microphones, stages, accessories, and more.",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      },
+      "category": {
+        "blockchain": "ethereum",
+        "brand": "Pepsi",
+        "category": "Food & Beverage",
+        "chain_id": 1,
+        "contract_address": "0xa67d63e68715dcf9b65e45e5118b5fcd1e554b5f",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0xa67d63e68715dcf9b65e45e5118b5fcd1e554b5f'"
+        ],
+        "description": "The Pepsi Mic Drop genesis NFT is a generative-style collection of unique NFTs that live on the Ethereum blockchain. A nod to the year Pepsi was born, each of our 1,893 genesis tokens are created using nearly 50 unique attributes across 6 categories, including microphones, stages, accessories, and more.",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      }
+    }
+  },
+  {
+    "brand": "Ping Fong",
+    "data": {
+      "metadata": {
+        "blockchain": "ethereum",
+        "brand": "Ping Fong",
+        "category": "Media & Entertainment",
+        "chain_id": 1,
+        "contract_address": "0x65700e58f303555076f2ce7a75e41915699db79f",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0x65700e58f303555076f2ce7a75e41915699db79f'"
+        ],
+        "description": "From the creators of the cultural phenomenon Baby Shark, \"Baby Shark: Collection No. 2\" is a generative art collection of 2,000 unique NFTs featuring each member of the beloved shark family: Baby Shark, Mommy Shark, Daddy Shark, Grandma Shark and Grandpa Shark.",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      },
+      "contract_metadata": {
+        "blockchain": "ethereum",
+        "brand": "Ping Fong",
+        "category": "Media & Entertainment",
+        "chain_id": 1,
+        "contract_address": "0x65700e58f303555076f2ce7a75e41915699db79f",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0x65700e58f303555076f2ce7a75e41915699db79f'"
+        ],
+        "description": "From the creators of the cultural phenomenon Baby Shark, \"Baby Shark: Collection No. 2\" is a generative art collection of 2,000 unique NFTs featuring each member of the beloved shark family: Baby Shark, Mommy Shark, Daddy Shark, Grandma Shark and Grandpa Shark.",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      },
+      "category": {
+        "blockchain": "ethereum",
+        "brand": "Ping Fong",
+        "category": "Media & Entertainment",
+        "chain_id": 1,
+        "contract_address": "0x65700e58f303555076f2ce7a75e41915699db79f",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0x65700e58f303555076f2ce7a75e41915699db79f'"
+        ],
+        "description": "From the creators of the cultural phenomenon Baby Shark, \"Baby Shark: Collection No. 2\" is a generative art collection of 2,000 unique NFTs featuring each member of the beloved shark family: Baby Shark, Mommy Shark, Daddy Shark, Grandma Shark and Grandpa Shark.",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      }
+    }
+  },
+  {
+    "brand": "Pizza Hut",
+    "data": {
+      "metadata": {
+        "blockchain": "ethereum",
+        "brand": "Pizza Hut",
+        "category": "Food & Beverage",
+        "chain_id": 1,
+        "contract_address": "0x60f80121c31a0d46b5279700f9df786054aa5ee5",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0x60f80121c31a0d46b5279700f9df786054aa5ee5'"
+        ],
+        "description": "Create and sell digital collectibles secured with blockchain technology. Rarible is home to thousands of artists and collectors, creating and exchanging immutable art without using code. Trade with RARI token on OpenSea.",
+        "discord_url": "https://t.me/rarible",
+        "instagram_url": "http://instagram.com/rarible",
+        "medium_url": "https://www.medium.com/@rarible",
+        "telegram_url": "https://t.me/rarible",
+        "thumbnail_palette": "['#5050C4', '#D3F9D8', '#CC6AB5', '#753DC4']",
+        "thumbnail_url": "https://lh3.googleusercontent.com/FG0QJ00fN3c_FWuPeUr9-T__iQl63j9hn5d6svW8UqOmia5zp3lKHPkJuHcvhZ0f_Pd6P2COo9tt9zVUvdPxG_9BBw=s500",
+        "twitter_url": "https://twitter.com/rarible"
+      },
+      "contract_metadata": {
+        "blockchain": "ethereum",
+        "brand": "Pizza Hut",
+        "category": "Food & Beverage",
+        "chain_id": 1,
+        "contract_address": "0x60f80121c31a0d46b5279700f9df786054aa5ee5",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0x60f80121c31a0d46b5279700f9df786054aa5ee5'"
+        ],
+        "description": "Create and sell digital collectibles secured with blockchain technology. Rarible is home to thousands of artists and collectors, creating and exchanging immutable art without using code. Trade with RARI token on OpenSea.",
+        "discord_url": "https://t.me/rarible",
+        "instagram_url": "http://instagram.com/rarible",
+        "medium_url": "https://www.medium.com/@rarible",
+        "telegram_url": "https://t.me/rarible",
+        "thumbnail_palette": "['#5050C4', '#D3F9D8', '#CC6AB5', '#753DC4']",
+        "thumbnail_url": "https://lh3.googleusercontent.com/FG0QJ00fN3c_FWuPeUr9-T__iQl63j9hn5d6svW8UqOmia5zp3lKHPkJuHcvhZ0f_Pd6P2COo9tt9zVUvdPxG_9BBw=s500",
+        "twitter_url": "https://twitter.com/rarible"
+      },
+      "category": {
+        "blockchain": "ethereum",
+        "brand": "Pizza Hut",
+        "category": "Food & Beverage",
+        "chain_id": 1,
+        "contract_address": "0x60f80121c31a0d46b5279700f9df786054aa5ee5",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0x60f80121c31a0d46b5279700f9df786054aa5ee5'"
+        ],
+        "description": "Create and sell digital collectibles secured with blockchain technology. Rarible is home to thousands of artists and collectors, creating and exchanging immutable art without using code. Trade with RARI token on OpenSea.",
+        "discord_url": "https://t.me/rarible",
+        "instagram_url": "http://instagram.com/rarible",
+        "medium_url": "https://www.medium.com/@rarible",
+        "telegram_url": "https://t.me/rarible",
+        "thumbnail_palette": "['#5050C4', '#D3F9D8', '#CC6AB5', '#753DC4']",
+        "thumbnail_url": "https://lh3.googleusercontent.com/FG0QJ00fN3c_FWuPeUr9-T__iQl63j9hn5d6svW8UqOmia5zp3lKHPkJuHcvhZ0f_Pd6P2COo9tt9zVUvdPxG_9BBw=s500",
+        "twitter_url": "https://twitter.com/rarible"
+      }
+    }
+  },
+  {
+    "brand": "Play boy",
+    "data": {
+      "metrics": {
+        "No_of_contracts": "1",
+        "assets_all": "1",
+        "blockchain": "ethereum",
+        "brand": "Play boy",
+        "chain_id": 1,
+        "collection": "Playboy Rabbitars Official",
+        "contracts": "0x65c234d041f9ef96e2f126263727dfa582206d82",
+        "growth_rate": 1.7857142857142856,
+        "holders": "1",
+        "interactions": "1",
+        "marketplace_volume": [
+          "'opensea':55.038536"
+        ],
+        "mcap": 0,
+        "mint_revenue": 0,
+        "mint_tokens": "0",
+        "primary_sale_revenue": 0,
+        "retained_traders": "0",
+        "royalty_revenue": 0,
+        "secondary_sale_revenue": 55.03853582190922,
+        "total_revenue": 0,
+        "total_volume": 55.03853582190922,
+        "traders": "2"
+      },
+      "contract_metrics": {
+        "No_of_contracts": "1",
+        "assets_all": "1",
+        "blockchain": "ethereum",
+        "brand": "Play boy",
+        "chain_id": 1,
+        "collection": "Playboy Rabbitars Official",
+        "contract_address": "0x65c234d041f9ef96e2f126263727dfa582206d82",
+        "contracts": "0x65c234d041f9ef96e2f126263727dfa582206d82",
+        "growth_rate": 1.7857142857142856,
+        "holders": "1",
+        "interactions": "1",
+        "marketplace_volume": [
+          "'opensea':55.038536"
+        ],
+        "mcap": 0,
+        "mint_revenue": 0,
+        "mint_tokens": "0",
+        "primary_sale_revenue": 0,
+        "retained_traders": "0",
+        "royalty_revenue": 0,
+        "secondary_sale_revenue": 55.03853582190922,
+        "total_revenue": 0,
+        "total_volume": 55.03853582190922,
+        "traders": "2"
+      }
+    }
+  },
+  {
+    "brand": "Puma",
+    "data": {
+      "metadata": {
+        "blockchain": "ethereum",
+        "brand": "Puma",
+        "category": "Sports",
+        "chain_id": 1,
+        "contract_address": "0x8b8d1225bb21ca07812ff3c2ee9358f7b5d90eca",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0x8b8d1225bb21ca07812ff3c2ee9358f7b5d90eca'"
+        ],
+        "description": "###CatBlox x PUMA Capsule Collection",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      },
+      "metrics": {
+        "No_of_contracts": "1",
+        "assets_all": "1",
+        "blockchain": "ethereum",
+        "brand": "Puma",
+        "chain_id": 1,
+        "collection": "CatBlox X PUMA Capsule",
+        "contracts": "0x8b8d1225bb21ca07812ff3c2ee9358f7b5d90eca",
+        "growth_rate": 6.666666666666667,
+        "holders": "1",
+        "interactions": "1",
+        "marketplace_volume": [],
+        "mcap": 0,
+        "mint_revenue": 0,
+        "mint_tokens": "0",
+        "primary_sale_revenue": 0,
+        "retained_traders": "0",
+        "royalty_revenue": 0,
+        "secondary_sale_revenue": 0,
+        "total_revenue": 0,
+        "total_volume": 0,
+        "traders": "2"
+      },
+      "contract_metadata": {
+        "blockchain": "ethereum",
+        "brand": "Puma",
+        "category": "Sports",
+        "chain_id": 1,
+        "contract_address": "0x8b8d1225bb21ca07812ff3c2ee9358f7b5d90eca",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0x8b8d1225bb21ca07812ff3c2ee9358f7b5d90eca'"
+        ],
+        "description": "###CatBlox x PUMA Capsule Collection",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      },
+      "contract_metrics": {
+        "No_of_contracts": "1",
+        "assets_all": "1",
+        "blockchain": "ethereum",
+        "brand": "Puma",
+        "chain_id": 1,
+        "collection": "CatBlox X PUMA Capsule",
+        "contract_address": "0x8b8d1225bb21ca07812ff3c2ee9358f7b5d90eca",
+        "contracts": "0x8b8d1225bb21ca07812ff3c2ee9358f7b5d90eca",
+        "growth_rate": 11.11111111111111,
+        "holders": "1",
+        "interactions": "1",
+        "marketplace_volume": [],
+        "mcap": 0,
+        "mint_revenue": 0,
+        "mint_tokens": "0",
+        "primary_sale_revenue": 0,
+        "retained_traders": "0",
+        "royalty_revenue": 0,
+        "secondary_sale_revenue": 0,
+        "total_revenue": 0,
+        "total_volume": 0,
+        "traders": "2"
+      },
+      "category": {
+        "blockchain": "ethereum",
+        "brand": "Puma",
+        "category": "Sports",
+        "chain_id": 1,
+        "contract_address": "0x8b8d1225bb21ca07812ff3c2ee9358f7b5d90eca",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0x8b8d1225bb21ca07812ff3c2ee9358f7b5d90eca'"
+        ],
+        "description": "###CatBlox x PUMA Capsule Collection",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      }
+    }
+  },
+  {
+    "brand": "Reddit",
+    "data": {
+      "metadata": {
+        "blockchain": "ethereum",
+        "brand": "Reddit",
+        "category": "Collectibles",
+        "chain_id": 1,
+        "contract_address": "0xbfb99893d04f72e2916c8f266e1b2962871a8dd4",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0xbfb99893d04f72e2916c8f266e1b2962871a8dd4'"
+        ],
+        "description": "      CryptoSnoos  are a collection of NFTs from Reddit  featuring the alien mascot Snoo reimagined in the context of different moments and movements in art history  Available NFTs come from different dimensional coordinates across spacetime and fuse past and present  high culture aesthetics and the popularity of kitsch and cartoons   These CryptoSnoos are fragmented  abstracted  impressionistic  futuristic folk and modern  post and pre   and definitely enlightened  but in an avant garde  neo classical contemporary kind of way   Plus  they re just kind of cute    4 items",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      },
+      "contract_metadata": {
+        "blockchain": "ethereum",
+        "brand": "Reddit",
+        "category": "Collectibles",
+        "chain_id": 1,
+        "contract_address": "0xbfb99893d04f72e2916c8f266e1b2962871a8dd4",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0xbfb99893d04f72e2916c8f266e1b2962871a8dd4'"
+        ],
+        "description": "      CryptoSnoos  are a collection of NFTs from Reddit  featuring the alien mascot Snoo reimagined in the context of different moments and movements in art history  Available NFTs come from different dimensional coordinates across spacetime and fuse past and present  high culture aesthetics and the popularity of kitsch and cartoons   These CryptoSnoos are fragmented  abstracted  impressionistic  futuristic folk and modern  post and pre   and definitely enlightened  but in an avant garde  neo classical contemporary kind of way   Plus  they re just kind of cute    4 items",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      },
+      "category": {
+        "blockchain": "ethereum",
+        "brand": "Reddit",
+        "category": "Collectibles",
+        "chain_id": 1,
+        "contract_address": "0xbfb99893d04f72e2916c8f266e1b2962871a8dd4",
+        "contract_type": "ERC721",
+        "contracts": [
+          "'0xbfb99893d04f72e2916c8f266e1b2962871a8dd4'"
+        ],
+        "description": "      CryptoSnoos  are a collection of NFTs from Reddit  featuring the alien mascot Snoo reimagined in the context of different moments and movements in art history  Available NFTs come from different dimensional coordinates across spacetime and fuse past and present  high culture aesthetics and the popularity of kitsch and cartoons   These CryptoSnoos are fragmented  abstracted  impressionistic  futuristic folk and modern  post and pre   and definitely enlightened  but in an avant garde  neo classical contemporary kind of way   Plus  they re just kind of cute    4 items",
+        "discord_url": "",
+        "instagram_url": "",
+        "medium_url": "",
+        "telegram_url": "",
+        "thumbnail_palette": "",
+        "thumbnail_url": "",
+        "twitter_url": ""
+      }
+    }
+  },
+  {
+    "brand": "Rimova",
+    "data": {
+      "metrics": {
+        "No_of_contracts": "1",
+        "assets_all": "1",
+        "blockchain": "ethereum",
+        "brand": "Rimova",
+        "chain_id": 1,
+        "collection": "RTFKT x RIMOWA Meta-Artisan Collection 🌌",
+        "contracts": "0x253ef258563e146f685e60219da56a6b75178e19",
+        "growth_rate": 20,
+        "holders": "1",
+        "interactions": "1",
+        "marketplace_volume": [],
+        "mcap": 0,
+        "mint_revenue": 0,
+        "mint_tokens": "0",
+        "primary_sale_revenue": 0,
+        "retained_traders": "0",
+        "royalty_revenue": 0,
+        "secondary_sale_revenue": 0,
+        "total_revenue": 0,
+        "total_volume": 0,
+        "traders": "2"
+      },
+      "contract_metrics": {
+        "No_of_contracts": "1",
+        "assets_all": "1",
+        "blockchain": "ethereum",
+        "brand": "Rimova",
+        "chain_id": 1,
+        "collection": "RTFKT x RIMOWA Meta-Artisan Collection 🌌",
+        "contract_address": "0x253ef258563e146f685e60219da56a6b75178e19",
+        "contracts": "0x253ef258563e146f685e60219da56a6b75178e19",
+        "growth_rate": 20,
+        "holders": "1",
+        "interactions": "1",
+        "marketplace_volume": [],
+        "mcap": 0,
+        "mint_revenue": 0,
+        "mint_tokens": "0",
+        "primary_sale_revenue": 0,
+        "retained_traders": "0",
+        "royalty_revenue": 0,
+        "secondary_sale_revenue": 0,
+        "total_revenue": 0,
+        "total_volume": 0,
+        "traders": "2"
+      }
+    }
+  },
+  {
+    "brand": "SAN Origin",
+    "data": {
+      "metrics": {
+        "No_of_contracts": "1",
+        "assets_all": "1",
+        "blockchain": "ethereum",
+        "brand": "SAN Origin",
+        "chain_id": 1,
+        "collection": "SAN Origin",
+        "contracts": "0x33333333333371718a3c2bb63e5f3b94c9bc13be",
+        "growth_rate": 1,
+        "holders": "1",
+        "interactions": "1",
+        "marketplace_volume": [
+          "'opensea':48.822666"
+        ],
+        "mcap": 0,
+        "mint_revenue": 0,
+        "mint_tokens": "0",
+        "primary_sale_revenue": 48.82266430280946,
+        "retained_traders": "1",
+        "royalty_revenue": 0,
+        "secondary_sale_revenue": 0,
+        "total_revenue": 48.82266430280946,
+        "total_volume": 48.82266430280946,
+        "traders": "2"
+      },
+      "contract_metrics": {
+        "No_of_contracts": "1",
+        "assets_all": "1",
+        "blockchain": "ethereum",
+        "brand": "SAN Origin",
+        "chain_id": 1,
+        "collection": "SAN Origin",
+        "contract_address": "0x33333333333371718a3c2bb63e5f3b94c9bc13be",
+        "contracts": "0x33333333333371718a3c2bb63e5f3b94c9bc13be",
+        "growth_rate": 1,
+        "holders": "1",
+        "interactions": "1",
+        "marketplace_volume": [
+          "'opensea':48.822666"
+        ],
+        "mcap": 0,
+        "mint_revenue": 0,
+        "mint_tokens": "0",
+        "primary_sale_revenue": 48.82266430280946,
+        "retained_traders": "1",
+        "royalty_revenue": 0,
+        "secondary_sale_revenue": 0,
+        "total_revenue": 48.82266430280946,
+        "total_volume": 48.82266430280946,
+        "traders": "2"
+      }
+    }
+  },
+  {
+    "brand": "Snoop Dog",
+    "data": {
+      "metrics": {
+        "No_of_contracts": "1",
+        "assets_all": "3",
+        "blockchain": "ethereum",
+        "brand": "Snoop Dog",
+        "chain_id": 1,
+        "collection": "Snoop Dogg on Sound XYZ",
+        "contracts": "0x37a03d4af1d7046d1126987b20117a0fdcbf6535",
+        "growth_rate": 16.666666666666664,
+        "holders": "1",
+        "interactions": "1",
+        "marketplace_volume": [
+          "'opensea':324.4688"
+        ],
+        "mcap": 0,
+        "mint_revenue": 0,
+        "mint_tokens": "0",
+        "primary_sale_revenue": 324.4687972597244,
+        "retained_traders": "0",
+        "royalty_revenue": 0,
+        "secondary_sale_revenue": 0,
+        "total_revenue": 324.4687972597244,
+        "total_volume": 324.4687972597244,
+        "traders": "3"
+      },
+      "contract_metrics": {
+        "No_of_contracts": "1",
+        "assets_all": "3",
+        "blockchain": "ethereum",
+        "brand": "Snoop Dog",
+        "chain_id": 1,
+        "collection": "Snoop Dogg on Sound XYZ",
+        "contract_address": "0x37a03d4af1d7046d1126987b20117a0fdcbf6535",
+        "contracts": "0x37a03d4af1d7046d1126987b20117a0fdcbf6535",
+        "growth_rate": 16.666666666666664,
+        "holders": "1",
+        "interactions": "1",
+        "marketplace_volume": [
+          "'opensea':324.4688"
+        ],
+        "mcap": 0,
+        "mint_revenue": 0,
+        "mint_tokens": "0",
+        "primary_sale_revenue": 324.4687972597244,
+        "retained_traders": "0",
+        "royalty_revenue": 0,
+        "secondary_sale_revenue": 0,
+        "total_revenue": 324.4687972597244,
+        "total_volume": 324.4687972597244,
+        "traders": "3"
+      }
+    }
+  },
+  {
+    "brand": "The Hundreds",
+    "data": {
+      "metrics": {
+        "No_of_contracts": "1",
+        "assets_all": "1",
+        "blockchain": "ethereum",
+        "brand": "The Hundreds",
+        "chain_id": 1,
+        "collection": "Adam Bomb Squad",
+        "contracts": "0x7ab2352b1d2e185560494d5e577f9d3c238b78c5",
+        "growth_rate": 0.45871559633027525,
+        "holders": "1",
+        "interactions": "1",
+        "marketplace_volume": [
+          "'opensea':28.02775"
+        ],
+        "mcap": 0,
+        "mint_revenue": 0,
+        "mint_tokens": "0",
+        "primary_sale_revenue": 28.02775088507715,
+        "retained_traders": "1",
+        "royalty_revenue": 0,
+        "secondary_sale_revenue": 0,
+        "total_revenue": 28.02775088507715,
+        "total_volume": 28.02775088507715,
+        "traders": "2"
+      },
+      "contract_metrics": {
+        "No_of_contracts": "1",
+        "assets_all": "1",
+        "blockchain": "ethereum",
+        "brand": "The Hundreds",
+        "chain_id": 1,
+        "collection": "Adam Bomb Squad",
+        "contract_address": "0x7ab2352b1d2e185560494d5e577f9d3c238b78c5",
+        "contracts": "0x7ab2352b1d2e185560494d5e577f9d3c238b78c5",
+        "growth_rate": 0.45871559633027525,
+        "holders": "1",
+        "interactions": "1",
+        "marketplace_volume": [
+          "'opensea':28.02775"
+        ],
+        "mcap": 0,
+        "mint_revenue": 0,
+        "mint_tokens": "0",
+        "primary_sale_revenue": 28.02775088507715,
+        "retained_traders": "1",
+        "royalty_revenue": 0,
+        "secondary_sale_revenue": 0,
+        "total_revenue": 28.02775088507715,
+        "total_volume": 28.02775088507715,
+        "traders": "2"
+      }
+    }
+  }
+]
