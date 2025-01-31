@@ -1,6 +1,6 @@
-# BrandCrunch - NFT Analytics Platform
+# BrandCrunch - Brand Analytics  Platform
 
-BrandCrunch is a comprehensive NFT analytics platform that provides detailed insights into NFT brands, contracts, and market performance. The platform uses AI-powered analysis to deliver actionable insights and recommendations.
+BrandCrunch is a comprehensive Brand Analytics  platform that provides detailed insights into NFT brands, contracts, and market performance. The platform uses AI-powered analysis to deliver actionable insights and recommendations.
 
 ## Features
 
