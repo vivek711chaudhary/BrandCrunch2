@@ -37,7 +37,7 @@ const Navbar = () => {
             >
               <Link to="/" className="flex items-center space-x-3 group">
                 <div className="w-10 h-10 bg-gradient-to-r from-primary to-secondary rounded-xl flex items-center justify-center transform transition-all duration-200 group-hover:scale-105">
-                  <span className="text-white font-bold text-xl">N</span>
+                  <span className="text-white font-bold text-xl">B</span>
                 </div>
                 <span className="text-white font-bold text-xl bg-clip-text text-transparent bg-gradient-to-r from-white to-gray-300 group-hover:from-primary group-hover:to-secondary transition-all duration-200">
                   Brand Analytics
