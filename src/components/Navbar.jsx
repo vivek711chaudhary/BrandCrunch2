@@ -40,7 +40,7 @@ const Navbar = () => {
                   <span className="text-white font-bold text-xl">N</span>
                 </div>
                 <span className="text-white font-bold text-xl bg-clip-text text-transparent bg-gradient-to-r from-white to-gray-300 group-hover:from-primary group-hover:to-secondary transition-all duration-200">
-                  NFT Analytics
+                  Brand Analytics
                 </span>
               </Link>
             </motion.div>
